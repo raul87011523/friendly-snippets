@@ -270,6 +270,14 @@
         "path": "./snippets/python/unittest.json"
       },
       {
+        "language": "python",
+        "path": "./snippets/frameworks/odoo/snippets/python.json"
+      },
+      {
+        "language": "xml",
+        "path": "./snippets/frameworks/odoo/snippets/xml.json"
+      },
+      {
         "language": "django",
         "path": "./snippets/frameworks/django/admin.json"
       },
